@@ -37,5 +37,5 @@ Check out the live demo of my portfolio website [here](https://rajkumar-portfoli
 
 Feel free to reach out to me through the contact form on my portfolio website or directly via email at [here](mailto:raj2002kumar45@gmail.com).
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio.
 
